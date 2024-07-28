@@ -10,11 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.4",
     "@radix-ui/react-slot": "^1.1.0",
     "@reduxjs/toolkit": "^2.2.6",
     "antd": "^5.19.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "embla-carousel-autoplay": "^8.1.6",
     "embla-carousel-react": "^8.1.6",
     "lucide-react": "^0.402.0",
     "react": "^18.3.1",
